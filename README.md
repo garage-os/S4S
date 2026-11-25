@@ -34,6 +34,81 @@ Developed around real automotive industry requirements, S4S aims to simplify eve
 | Blogs | Automotive technical articles, coding guides and educational resources. |
 | Tools | Professional automotive software, diagnostic devices, hand tools and workshop equipment marketplace. |
 
+## Application Screenshots
+
+Explore the S4S desktop experience, designed around the daily needs of automotive professionals.
+
+### Professional Dashboard
+
+<p align="center">
+  <img src="./s4s-home.png" alt="S4S Professional Dashboard" width="100%">
+</p>
+
+<p align="center">
+  <i>Your connected automotive workspace — resources, services and professional tools in one place.</i>
+</p>
+
+### Explore S4S Features
+
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <b>Workshop & Technical Resources</b><br><br>
+      <a href="./s4s-workshop.png">
+        <img src="./s4s-workshop.png" alt="S4S Workshop" width="100%">
+      </a><br>
+      <sub>Access assigned automotive catalogs and technical resources.</sub>
+    </td>
+    <td width="50%" align="center">
+      <b>Automotive Parts Marketplace</b><br><br>
+      <a href="./s4s-parts-offer.png">
+        <img src="./s4s-parts-offer.png" alt="S4S Parts Marketplace" width="100%">
+      </a><br>
+      <sub>Discover, publish and source automotive spare parts.</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <b>Automotive Business Network</b><br><br>
+      <a href="./s4s-network.png">
+        <img src="./s4s-network.png" alt="S4S Automotive Network" width="100%">
+      </a><br>
+      <sub>Discover workshops, suppliers and automotive specialists.</sub>
+    </td>
+    <td width="50%" align="center">
+      <b>Professional Tools Marketplace</b><br><br>
+      <a href="./s4s-tools.png">
+        <img src="./s4s-tools.png" alt="S4S Tools Marketplace" width="100%">
+      </a><br>
+      <sub>Explore diagnostic equipment, software and professional workshop tools.</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <b>Modern Dark Mode</b><br><br>
+      <a href="./s4s-dark-mode.png">
+        <img src="./s4s-dark-mode.png" alt="S4S Dark Mode" width="100%">
+      </a><br>
+      <sub>A modern interface with personalized appearance settings.</sub>
+    </td>
+    <td width="50%" align="center">
+      <b>Egyptian Arabic Interface</b><br><br>
+      <a href="./s4s-arabic.png">
+        <img src="./s4s-arabic.png" alt="S4S Arabic Interface" width="100%">
+      </a><br>
+      <sub>Localized Arabic experience with right-to-left interface support.</sub>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <i>Click any gallery image to view it in full resolution.</i>
+</p>
+
+---
+
+
+
 ## Automotive Parts Marketplace
 
 - OEM and reference part number search.
