@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./s4s-logo.png" alt="S4S by GarageOS" width="220">
+</p>
+
 # S4S by GarageOS
 
 ### The Connected Platform for Automotive Professionals
